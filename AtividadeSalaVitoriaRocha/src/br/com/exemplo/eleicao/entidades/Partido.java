@@ -1,4 +1,4 @@
-package br.com.exemplo.eleicao.entidades;
+package entidades;
 
 public class Partido {
 
@@ -11,7 +11,7 @@ public class Partido {
 
     }
 
-    public String getNome(){
+    public String getNomePartido(){
         return nome;
     }
     public String getSigla(){
